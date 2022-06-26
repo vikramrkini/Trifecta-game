@@ -55,7 +55,7 @@ WAM is also a single player classic Whack A Mole game against the computer. You 
 
 
 ## License
-The Trifecta repository is licensed under MIT License. This project is developed by [Mrunank Mistry](https://github.com/fork52), and [Tanay Godse](https://github.com/tanaygodse).
+The Trifecta repository is licensed under MIT License. This project is developed by [Mrunank Mistry](https://github.com/fork52), [Tanay Godse](https://github.com/tanaygodse) and [Vikram Kini](https://github.com/vikramrkini).
 
 <!-- Markdown link & img dfn's -->
 [license-image]:https://img.shields.io/github/license/fork52/Trifecta
